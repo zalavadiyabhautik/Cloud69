@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173" height="137" viewBox="0 0 173 137">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="68.531" y1="137.062" x2="68.531" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fce9b8"/>
+      <stop offset="1" stop-color="#f9d8bd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="152.297" x2="152.297" y2="97.469" xlink:href="#linear-gradient"/>
+  </defs>
+  <circle class="cls-1" cx="68.531" cy="68.531" r="68.531"/>
+  <circle id="Ellipse_5_copy" data-name="Ellipse 5 copy" class="cls-2" cx="152.297" cy="117.265" r="19.797"/>
+</svg>
