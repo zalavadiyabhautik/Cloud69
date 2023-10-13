@@ -428,7 +428,7 @@ background-color: var(--dark);
 }
 
 .creative_challenges {
-    background-image: url(../images/sec_shepe_one.svg);
+    background-image: url(../images/sec_shepe_one.webp);
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
