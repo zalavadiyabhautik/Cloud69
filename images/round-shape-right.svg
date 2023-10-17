@@ -1,0 +1,20 @@
+<svg id="Group_9_copy" data-name="Group 9 copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="172" height="137" viewBox="0 0 172 137">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="103.563" y1="137.062" x2="103.563" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fce9b8"/>
+      <stop offset="1" stop-color="#f9d8bd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="19.797" y1="39.594" x2="19.797" xlink:href="#linear-gradient"/>
+  </defs>
+  <circle class="cls-1" cx="103.563" cy="68.531" r="68.531"/>
+  <circle id="Ellipse_5_copy" data-name="Ellipse 5 copy" class="cls-2" cx="19.797" cy="19.797" r="19.797"/>
+</svg>
